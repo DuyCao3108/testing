@@ -1,1 +1,1 @@
-print("hello from thirdscript")
+print("hello from thirdscript, but modified")
